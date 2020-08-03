@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  HelloWorld
+//  FirstKadaiApp
 //
-//  Created by 三浦　一真 on 2020/07/25.
+//  Created by 三浦　一真 on 2020/08/03.
 //  Copyright © 2020 Kazuma Miura. All rights reserved.
 //
 
